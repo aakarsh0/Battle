@@ -172,4 +172,4 @@ print('Gwin: {} XWin: {}'.format(Gwin,Xwin))
 ##movement:
 ##1. if neighbor is opponent, just kill it. DONE - adjacentKill
 ##2. more probability to move towards center of cluster of opponents
-##3. Each soldier has the info of position at a movement, and then everyone moves accordingly.
+##3. Each soldier has the info of position and movements of others, and then everyone moves accordingly.
